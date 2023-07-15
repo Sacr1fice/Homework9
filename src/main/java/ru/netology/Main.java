@@ -9,7 +9,7 @@ public class Main {
         post.patronymic = "Иванович";
         post.passport = "1234 № 987654";
         post.phone = "+7-(990)-546-77-99";
-        post.subscription = "true";
+        post.subscription = true;
         post.birthday = new FormDate();
         post.birthday.day = 13;
         post.birthday.month = 6;
